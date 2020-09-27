@@ -6,7 +6,4 @@ Basic function is to z-score normalize the signals, and obtain amplitudes and tr
 Please be advised by the comments in the code and put appropriate modifications for your purpose. Thank you.
 
 Seung-Eon Roh
-Post-doc researcher
-Department of Neuroscience
-Johns Hopkins University
-sroh3@jhmi.edu
+Post-doc researcher @ Department of Neuroscience in Johns Hopkins University (sroh3@jhmi.edu)
